@@ -8,4 +8,5 @@ div {
   height: 100px;
   margin: 1em;
   border: 2px solid black;
+  border-radius: 25px;
   }
