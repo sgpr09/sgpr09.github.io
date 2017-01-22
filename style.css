@@ -1,6 +1,14 @@
+body {
+  background-color: #e6e6e6;
+}
+
+.window {
+  background-color: #fff;
+}
+
 p {
   font-size: 18px;
-  }
+}
 
 .box {
   display: inline-block;
@@ -10,9 +18,9 @@ p {
   border: 2px solid black;
   border-radius: 25px;
   text-align: center;
-  }
+}
 
 img {
   display: block;
   margin: auto;
-  }
+}
