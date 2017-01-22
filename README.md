@@ -30,8 +30,8 @@ Syntax highlighted code block
 Test
 ```
 
-# Header 1
-Test
+# Test
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
