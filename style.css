@@ -9,4 +9,10 @@ p {
   margin: 1em;
   border: 2px solid black;
   border-radius: 25px;
+  text-align: center;
+  }
+
+img {
+  display: block;
+  margin: auto;
   }
